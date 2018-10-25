@@ -32,10 +32,8 @@ namespace DartGame
         public void AddTurn()
         {
             PlayerTurns.Add(new Turn());
-            foreach (Turn turn in PlayerTurns)
-            {
-                TotalScore += turn.GetScore();
-            }
+
+            TotalScore += PlayerTurns[PlayerTurns.Count - 1].GetScore();
         }
     }
 }

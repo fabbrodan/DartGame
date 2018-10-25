@@ -57,6 +57,18 @@ namespace DartGame
                 playerPointsView.Items.Add(player.ToString() + " " + player.GetScore());
             }
 
+            foreach (Player player in game.GetPlayers())
+            {
+                if (player.GetScore() == 300)
+                {
+                    MessageBox.Show("{0} won with 300 points!", player.ToString());
+                    nextTurn_btn.Enabled = false;
+                }
+                else if (player.GetScore() > 300)
+                {
+                    MessageBox.Show("{0} got fat!", player.ToString());
+                }
+            }
 
         }
     }

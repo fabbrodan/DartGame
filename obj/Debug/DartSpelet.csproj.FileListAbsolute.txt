@@ -1,0 +1,10 @@
+C:\Users\DAS\source\repos\DartSpelet\DartSpelet\bin\Debug\DartSpelet.exe.config
+C:\Users\DAS\source\repos\DartSpelet\DartSpelet\bin\Debug\DartSpelet.exe
+C:\Users\DAS\source\repos\DartSpelet\DartSpelet\bin\Debug\DartSpelet.pdb
+C:\Users\DAS\source\repos\DartSpelet\DartSpelet\obj\Debug\DartSpelet.csprojResolveAssemblyReference.cache
+C:\Users\DAS\source\repos\DartSpelet\DartSpelet\obj\Debug\DartGame.Form1.resources
+C:\Users\DAS\source\repos\DartSpelet\DartSpelet\obj\Debug\DartSpelet.Properties.Resources.resources
+C:\Users\DAS\source\repos\DartSpelet\DartSpelet\obj\Debug\DartSpelet.csproj.GenerateResource.cache
+C:\Users\DAS\source\repos\DartSpelet\DartSpelet\obj\Debug\DartSpelet.csproj.CoreCompileInputs.cache
+C:\Users\DAS\source\repos\DartSpelet\DartSpelet\obj\Debug\DartSpelet.exe
+C:\Users\DAS\source\repos\DartSpelet\DartSpelet\obj\Debug\DartSpelet.pdb
